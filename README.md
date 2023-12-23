@@ -47,7 +47,5 @@ The graph is made for the sample which has best accuracy. Sample 9 has the best 
 
 ## Written By
 Name : Anshika Singla
-  
-Roll No. : 102003458
 
-Sub-Group: 3CO18
+
